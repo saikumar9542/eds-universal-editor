@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/eds-universal-editor/:/",
+    "/content/dam/eds-universal-editor/:/assets/"
+  ],
+  "includes": [
+    "/content/eds-universal-editor/",
+    "/content/dam/eds-universal-editor/"
+  ]
+}
